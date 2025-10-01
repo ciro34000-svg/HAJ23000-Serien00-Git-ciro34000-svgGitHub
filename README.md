@@ -4,12 +4,13 @@ Repository to learn Git and GitHub basics"
 Repository to learn Git and GitHub basics"
 ## Introduction
 
-Ce dépôt Git a été créé dans le cadre du module MAM2ADMM pour apprendre les bases de Git et GitHub. Je débute dans l’utilisation de ces outils, mais je suis motivé(e) à progresser et à comprendre comment ils peuvent améliorer la reproductibilité en analyse de données.
+This Git repository was created as part of the MAM2ADMM module to learn the basics of Git and GitHub. I am currently a beginner with these tools, but I am motivated to improve and understand how they can enhance reproducibility in data analysis.
 
-À travers ce projet, je vais découvrir comment :
-- Créer et gérer un dépôt GitHub
-- Travailler avec des branches
-- Documenter mon travail avec un fichier README
-- Intégrer des images et suivre les bonnes pratiques de versionnage
+Through this project, I aim to explore how to:
+- Create and manage a GitHub repository
+- Work with branches and commits
+- Document my work using a README file
+- Add images and follow good version control practices
 
-Ce dépôt servira de journal de bord pour suivre mon apprentissage et mes expérimentations.
+This repository will serve as a learning journal to track my progress and experiments.
+
